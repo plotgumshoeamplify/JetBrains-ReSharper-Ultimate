@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 860 420" role="img" aria-label="JetBrains ReSharper Ultimate preview">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ff4081"/>
+      <stop offset="100%" stop-color="#f50057"/>
+    </linearGradient>
+  </defs>
+  <rect width="860" height="420" rx="18" fill="url(#bg)"/>
+  <defs><pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M 40 0 L 0 0 0 40" fill="none" stroke="#fce4ec" stroke-opacity="0.12" stroke-width="1"/></pattern></defs><rect width="860" height="420" fill="url(#g)"/>
+  <rect x="36" y="36" width="420" height="6" rx="3" fill="#fce4ec" opacity="0.35"/>
+  <text x="48" y="120" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="700">JetBrains ReSharper Ultimate</text>
+  <text x="48" y="168" fill="#ffffff" font-family="Segoe UI, Arial, sans-serif" font-size="20" opacity="0.85">.NET productivity</text>
+  <rect x="48" y="200" width="260" height="4" rx="2" fill="#fce4ec" opacity="0.3"/>
+  <rect x="48" y="220" width="200" height="4" rx="2" fill="#fce4ec" opacity="0.2"/>
+  <rect x="48" y="240" width="320" height="4" rx="2" fill="#fce4ec" opacity="0.15"/>
+</svg>
